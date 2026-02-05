@@ -33,8 +33,8 @@ You can download the dataset from **Kaggle** via the official dataset page:
    - Use a sample subset if the dataset is too large to speed up training.
 
 2. **Hyperparameter Tuning:**
-   -GridSearchCV → Accurate but slow on large datasets.
-   -RandomizedSearchCV → Fast, gives near-optimal results, and suitable for large datasets.
+   - GridSearchCV → Accurate but slow on large datasets.
+   - RandomizedSearchCV → Fast, gives near-optimal results, and suitable for large datasets.
 
 3. **Final Evaluation:**  
    - Use **Confusion Matrix** to check the performance of each model on each class.  
