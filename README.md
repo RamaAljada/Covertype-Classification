@@ -36,8 +36,9 @@ You can download the dataset from **Kaggle** via the official dataset page:
    -GridSearchCV → Accurate but slow on large datasets.
    -RandomizedSearchCV → Fast, gives near-optimal results, and suitable for large datasets.
 
-4. **Final Evaluation:**  
+3. **Final Evaluation:**  
    - Use **Confusion Matrix** to check the performance of each model on each class.  
    - Compare models using Accuracy and F1-weighted Score.  
    - In this project, the best performance was achieved by the Decision Tree with ~93.9% accuracy.
+   
 **License: MIT**
